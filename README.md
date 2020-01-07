@@ -1,3 +1,8 @@
+# ※pythonanywhere链接
+### 链接一：[http://zhuangqinger.pythonanywhere.com/](http://zhuangqinger.pythonanywhere.com/)
+### 链接二：[http://luoxinyi.pythonanywhere.com/](http://luoxinyi.pythonanywhere.com/)
+### pages链接：[PAGES](http://nfunm093.gitee.io/interactive_final_project/)
+
 # 世界幸福指数
 ### 幸福分数和排名使用盖洛普世界民意调查的数据。分数基于对民意调查中提出的主要生活评估问题的答案。这个问题称为Cantril阶梯，要求被调查者考虑一个阶梯，该阶梯的最长寿命是10，而最糟糕的寿命是0，并以此等级来评价自己当前的寿命。分数来自2013-2016年全国代表性样本，并使用盖洛普权重使估算值具有代表性。
 
@@ -17,7 +22,4 @@
 ### 3. 有没有哪个国家的幸福感显着提高或降低？
 ### 4. 探究各国gdp与幸福感排名是否有关联
 
-# ※pythonanywhere链接
-### 链接一：[http://zhuangqinger.pythonanywhere.com/](http://zhuangqinger.pythonanywhere.com/)
-### 链接二：[http://luoxinyi.pythonanywhere.com/](http://luoxinyi.pythonanywhere.com/)
 
